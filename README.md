@@ -4,6 +4,7 @@ Dashboard de estudo para análise de dados e criação de dashboard.
 ![gestao de obras.png](https://github.com/dedz-jpg/gestao_de_obras/blob/main/gestão%20de%20obras.png)
 
 🇧🇷 Português
+
 📌 Visão Geral
 
 Este projeto consiste em um dashboard de Gestão de Obras desenvolvido no Power BI, com foco em acompanhamento de prazo, atrasos, riscos de estouro e status de empreendimentos imobiliários.
@@ -93,6 +94,7 @@ Tabela detalhada contendo:
 - Indicadores financeiros integrados (custo x atraso)
 
 🇺🇸 English
+
 📌 Overview
 
 This project is a Construction Management Dashboard built in Power BI, focused on monitoring deadlines, delays, overdue risks, and project status in real estate developments.
